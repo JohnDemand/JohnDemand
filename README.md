@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm an aerospace engineer in the area of flight physics with strong software development skills.
+
+
 <!--
 **JohnDemand/JohnDemand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
